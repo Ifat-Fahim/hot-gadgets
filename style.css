@@ -6,3 +6,8 @@ img {
 .logo {
     width: 60%;
 }
+
+.container {
+    margin-bottom: 100px;
+    padding: 0 30px;
+}
