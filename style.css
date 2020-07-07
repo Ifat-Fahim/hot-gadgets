@@ -11,3 +11,28 @@ img {
     margin-bottom: 100px;
     padding: 0 30px;
 }
+
+.cta {
+    border: none;
+    cursor: pointer;
+    background: white;
+    color: orange;
+    transition: all 0.4s ease-in-out;
+    padding: 0 15px;
+    border-radius: 10px;
+}
+
+.cta:hover {
+    background: orange;
+    color: #fff;
+}
+
+.card {
+    -webkit-box-shadow: 11px 14px 5px -3px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 11px 14px 5px -3px rgba(0, 0, 0, 0.2);
+    box-shadow: 11px 14px 5px -3px rgba(0, 0, 0, 0.2);
+}
+
+img {
+    border: 2px solid blueviolet;
+}
